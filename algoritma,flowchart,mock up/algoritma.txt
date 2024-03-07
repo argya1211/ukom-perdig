@@ -1,0 +1,80 @@
+Algoritma User :
+1. Mulai
+2. Membuka form login register
+3. Melakukan registerasi terlebih dahulu
+4. Sudah punya akun?
+5. Jika belum memiliki akun silahkan melakukan register terlebih dahulu
+6. Masukkan nama, password, email, nama lengkap, nomer telepon, alamat, level (administrator, petugas, peminjam)
+7. Pilih level sesuai dengan kebutuhan user
+8. Setelah memilih level user akan di arahkan ke halaman login
+9. Jika sudah punya akun klik login di sini
+10. Setelah klik login di sini, akan menuju ke halaman login
+11. Input data seperti email dan password
+12. Setelah user menginput data klik tombol login
+13. User akan di arahkan ke index
+14. Selesai
+
+Algoritma Administrator :
+1. Mulai
+2. Melakukan registerasi terlebih dahulu
+3. Pilih administrator di bagian level untuk membuat akun khusus admin
+4. Sudah punya akun?
+5. Jika belum memiliki akun peminjam harus membuat akun terlebih dahulu
+6. Masukkan nama, password, email, nama lengkap, nomer telepon, alamat, level (administrator, petugas, peminjam)
+7. Pilih level sesuai dengan kebutuhan user
+8. Setelah memilih level user akan di arahkan ke halaman login
+9. Jika sudah punya akun klik login di sini
+10. Setelah klik login di sini, akan menuju ke halaman login
+11. Login menggunakan email dan password yg telah di buat
+12. Apakah data login yang di masukan benar?
+13. Jika data yang di masukkan tidak sesuai maka akan muncul pop up "email atau password tidak sesuai!"
+14. Jika data yang di masukkan benar maka akan di arahkan ke halaman index dengan akun petugas
+15. Setelah memilih level tekan tombol daftar dan otomatis akan di arahkan ke form login
+16. Login menggunakan email dan password yg telah di buat
+17. Apakah data login yang di masukan benar?
+18. Jika data yang di masukkan tidak sesusai maka akan muncul pop up "email atau password tidak sersuai!"
+19. Jika data yang di masukkan benar maka akan di arahkan ke halaman index dengan akun administrator
+20. Admin menginput data buku dan data peminjaman
+21. selesai
+
+Algoritma Petugas :
+1. Mulai
+2. Petugas melakukan regiterasi
+4. Pilih petugas di bagian level untuk membuat akun khusus petugas
+5. Sudah punya akun?
+6. Jika belum memiliki akun peminjam harus membuat akun terlebih dahulu
+7. Masukkan nama, password, email, nama lengkap, nomer telepon, alamat, level (administrator, petugas, peminjam)
+8. Pilih level sesuai dengan kebutuhan user
+9. Setelah memilih level user akan di arahkan ke halaman login
+10. Jika sudah punya akun klik login di sini
+11. Setelah klik login di sini, akan menuju ke halaman login
+12. Login menggunakan email dan password yg telah di buat
+13. Apakah data login yang di masukan benar?
+14. Jika data yang di masukkan tidak sesuai maka akan muncul pop up "email atau password tidak sesuai!"
+15. Jika data yang di masukkan benar maka akan di arahkan ke halaman index dengan akun petugas
+16. Setelah memilih level tekan tombol daftar dan otomatis akan di arahkan ke form login
+17. Petugas mengecek data buku dan data peminjaman untuk di buatkan laporan
+18. Petugas membuatkan laporan peminjaman buku
+19. Petugas mencetak laporan tersebut menjadi pdf
+20. Selesai
+
+Algoritma Peminjam :
+1. Mulai
+2. Peminjam membuat akun dengan cara register
+3. Pilih peminjam di bagian level untuk membuat akun khusus peminjam
+3. Sudah punya akun?
+5. Jika belum memiliki akun peminjam harus membuat akun terlebih dahulu
+6. Masukkan nama, password, email, nama lengkap, nomer telepon, alamat, level (administrator, petugas, peminjam)
+7. Pilih level sesuai dengan kebutuhan user
+8. Setelah memilih level user akan di arahkan ke halaman login
+9. Jika sudah punya akun klik login di sini
+10. Setelah klik login di sini, akan menuju ke halaman login
+11. Login menggunakan email dan password yg telah di buat
+12. Apakah data login yang di masukan benar?
+13. Jika data yang di masukkan tidak sesuai maka akan muncul pop up "email atau password tidak sesuai!"
+14. Jika data yang di masukkan benar maka akan di arahkan ke halaman index dengan akun peminjam
+15. Peminjam memilih buku yang ingin di pinjam
+16. Setelah memilih buku yang ingin di pinjam, peminjam akan menerima laporan dari petugas
+17. Selesai
+
+
